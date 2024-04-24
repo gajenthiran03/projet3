@@ -155,14 +155,14 @@ h5.name{
  
  @media (max-width: 500px) {
   section::after{
-    height: 125px;
-    width: 125px;
+    height: 118px;
+    width: 118px;
     border-radius: 50%;
 
   }
   section::before{
-   height:  125px;
-    width: 125px;
+   height:  118px;
+    width: 118px;
     border-radius: 50%;
   }
  }
